@@ -34,7 +34,7 @@ export const router = createBrowserRouter(
       ],
     },
   ],
-  // {
-  //   basename: "/Airplane",
-  // },
+  {
+    basename: "/My-Dream-Place",
+  },
 );
