@@ -5,8 +5,8 @@ import h4 from "../../assets/h4.jpg";
 
 export default function Hotels() {
   return (
-    <div className="container my-5">
-      <h2 className="text-xl font-bold mb-2 dark:text-white">
+    <div className="container my-10">
+      <h2 className="text-xl font-bold mb-3 dark:text-white">
         {" "}
         Popular Hotels{" "}
       </h2>
