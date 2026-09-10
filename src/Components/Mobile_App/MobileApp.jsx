@@ -6,8 +6,8 @@ export default function MobileApp() {
   return (
     <section
       className="
-        relative left-1/2 w-screen -translate-x-1/2
-        h-87.5 sm:h-100 md:h-80 lg:h-90
+        relative w-full
+        h-60 sm:h-80 md:h-60 lg:h-70
         overflow-hidden
       "
     >

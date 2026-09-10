@@ -5,7 +5,7 @@ import NextTrip from "../Components/Next_Trip/NextTrip";
 
 export default function Discover() {
   return (
-    <div id="discover">
+    <div id="discover" className="Container">
       <Alert />
       <Choose />
       <Enjoy />

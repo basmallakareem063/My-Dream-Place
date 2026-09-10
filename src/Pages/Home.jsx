@@ -7,13 +7,15 @@ import Discover from "./Discover";
 
 export default function Home() {
   return (
-    <div id="home">
-      <Hero />
-      <Search />
-      <Discover />
-      <Activities />
+    <>
+      <div id="home" className="Container">
+        <Hero />
+        <Search />
+        <Discover />
+        <Activities />
+      </div>
       <About />
       <Contact />
-    </div>
+    </>
   );
 }

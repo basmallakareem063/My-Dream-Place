@@ -9,9 +9,9 @@ import Hotels from "../Components/Popular_Hotels/Hotels";
 
 export default function Activities() {
   return (
-    <div id="activities">
-      <section className="mt-10">
-        <div className="container my-5">
+    <div id="activities" className="Container">
+      <section className="mt-10 ">
+        <div className=" my-5">
           <h2 className="text-xl font-bold mb-3 dark:text-white">
             {" "}
             Popular Things to do

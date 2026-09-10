@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Alert() {
   return (
-    <div className="container bg-amber-300 dark:bg-amber-500 mt-8 rounded-lg">
+    <div className=" bg-amber-300 dark:bg-amber-500 mt-8 rounded-lg">
       <p className="flex gap-4 p-8 ">
         <span>
           <GoAlert

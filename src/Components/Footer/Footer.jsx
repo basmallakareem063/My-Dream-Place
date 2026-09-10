@@ -3,10 +3,10 @@ import { BiSolidPlaneAlt } from "react-icons/bi";
 export default function Footer() {
   return (
     <>
-      <footer className="bg-[#fffcf0] text-gray-700 dark:text-white dark:bg-gray-800 w-screen relative left-1/2 -translate-x-1/2 mt-20">
+      <footer className="bg-[#fffcf0] text-gray-700 dark:text-white dark:bg-gray-800 w-full relative mt-20">
+        
         {/* Footer Content */}
-
-        <div className="container mx-auto px-6 py-16">
+        <div className="mx-auto px-6 py-16">
           {/* Heading */}
           <div className="mb-20 text-center">
             <h2 className="mb-4 text-3xl font-bold text-gray-900 dark:text-white">

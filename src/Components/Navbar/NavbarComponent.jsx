@@ -11,7 +11,7 @@ import ToggleTheme from "../Theme/ToggleTheme";
 
 export default function NavbarComponent() {
   return (
-    <Navbar className="sticky-top" fluid rounded >
+    <Navbar className="sticky top-0 z-50 bg-white shadow-md" fluid rounded>
       <div className="container mx-auto flex flex-wrap items-center justify-between">
         <NavbarBrand>
           {/* Plane Icon */}

@@ -5,7 +5,7 @@ import A4 from "../../assets/g4.jpg";
 
 export default function Enjoy() {
   return (
-    <div className="container my-5">
+    <div className=" my-5">
       <div className="title mb-4">
         <h2 className="text-xl font-bold mb-2 dark:text-white">
           {" "}

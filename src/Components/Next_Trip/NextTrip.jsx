@@ -4,7 +4,7 @@ import t3 from "../../assets/t3.jpg";
 
 export default function NextTrip() {
   return (
-    <div className="container my-5">
+    <div className=" my-5">
       <h2 className="text-xl font-bold mb-3 dark:text-white">
         {" "}
         Get inspiration for your next trip

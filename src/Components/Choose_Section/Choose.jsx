@@ -5,7 +5,7 @@ import medal from "../../assets/medal.svg.png";
 
 export default function Choose() {
   return (
-    <div className="container my-24">
+    <div className="my-24">
       <h2 className="text-xl font-bold mb-1.5 dark:text-white">Why Choose US</h2>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-2 ">
         {/* Cards */}
